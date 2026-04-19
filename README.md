@@ -1,2 +1,19 @@
-# simple-escrow-contract
-A secure Ethereum escrow smart contract built with Solidity, enabling safe fund holding, controlled payment release, refunds, and event-based transaction tracking.
+# Simple Escrow Smart Contract
+
+## Overview
+A Solidity-based escrow contract that securely holds ETH between a payer and a payee until payment is released or refunded.
+
+## Features
+- Secure ETH holding
+- Controlled payment release
+- Refund mechanism
+- Event logging
+- Reentrancy-safe transfer
+
+## Use Cases
+- Freelance payments
+- Service agreements
+- Web3 transactions
+
+## Author
+Osanebi Joshua
